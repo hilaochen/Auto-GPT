@@ -21,4 +21,9 @@ smart_llm_model_deployment_id - 您的 gpt-4 部署 ID
 embedding_model_deployment_id - 您的 text-embedding-ada-002 v2 部署 ID
 请将所有这些值指定为双引号字符串
 详细信息可在此处找到：Microsoft Azure 端点部分中的 https://pypi.org/project/openai/ 和此处：https://learn.microsoft.com/en-us/azure/cognitive-services/openai/tutorials /embeddings?tabs=嵌入模型的命令行。
-![B6C9956F2E9425BD9A6C478A621C3691](https://user-images.githubusercontent.com/16281830/232052225-da742db7-f58e-4886-84c2-82b0f09d9e9b.png)
+
+一个好用的AI工具合集网站
+http://www.daokeyou.top/common/ai
+
+![QQ图片20230424083827](https://user-images.githubusercontent.com/16281830/233876516-d8787964-7d5c-40e4-8fd3-7290341f533e.png)
+
